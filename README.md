@@ -78,10 +78,10 @@ Function to plot amplitude spectrum.
 Function to calculate pseudo Reflection Coefficient (RC) from seismic data.
 Function to compute F4 Index.
 Function for fitting a curve on RC amplitude spectrum.
-
 Function to calculate BRI operator.
 Function to convolve seismic traces and BRI operator.
 Function to compare seismic and BRI data at one location.
 Function to export 2D/3D post-stack BRI data (segy file).
 Function for writing header information on segy output (Geometry-related byte locations).
+
 --------------------------------------------------------------------------------------------------------------------------------------
