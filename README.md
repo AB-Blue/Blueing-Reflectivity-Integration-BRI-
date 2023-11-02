@@ -18,7 +18,7 @@ Email: a.babasafari@yahoo.com
 Python 3.9
 Libraries: numpy, segyio, matplotlib, scipy, PyQt5
 --------------------------------------------------------------------------------------------------------------------------------------
-# Run the application:
+# Run application:
 
 Download the code from GitHub or clone the repository to your machine.
 Install the required dependencies using pip install 'library name'.
