@@ -54,7 +54,7 @@ calculating amplitude for zero first derivative. The rest of the steps are simil
 In addition, the function of creation RC from log is available in BRI main class but not included in BRI GUI for front-end purpose.
 
 --------------------------------------------------------------------------------------------------------------------------------------
-Steps:
+# Steps:
 
 Calculating mean amplitude spectrum of seismic data reflectivity series in the frequency domain.
 Obtaining pseudo Reflection Coefficient (RC) derived from seismic data. 
