@@ -47,6 +47,7 @@ Please see description below and for more information please watch the recorded 
 on LinkedIn and YouTube via provided links below:
 
 https://www.linkedin.com/feed/update/urn:li:activity:7125752662238588930/
+
 https://www.youtube.com/watch?v=_XE2-T9fP8I
 
 load original seismic:                    Load 2D/3D post-stack seismic data in segy/sgy format.
