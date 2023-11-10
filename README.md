@@ -57,12 +57,18 @@ In addition, the function of creation RC from log is available in BRI main class
 --------------------------------------------------------------------------------------------------------------------------------------
 # Steps:
 
-Calculating mean amplitude spectrum of seismic data reflectivity series in the frequency domain.
+Calculating mean amplitude spectrum of seismic data in the frequency domain.
+
 Obtaining pseudo Reflection Coefficient (RC) derived from seismic data. 
+
 Fitting a curve on amplitude spectrum of logarithmic reflection coefficient. 
+
 Multiplication of mean amplitude spectrum of seismic data by fitted Blue spectra.
+
 Taking inverse Fourier Transformation of BRI spectra to bring back the data to the time domain (BRI operator).
+
 Convolving seismic amplitude with BRI operator. 
+
 Quality control steps.
 
 --------------------------------------------------------------------------------------------------------------------------------------
