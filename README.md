@@ -1,6 +1,6 @@
 # Blueing-Reflectivity-Integration-BRI-
 
-Seismic Spectral Enhancement Technique
+Seismic Resolution Enhancement Technique
 proposed by Babasafari et al., 2016
 https://library.seg.org/doi/10.1190/ice2016-6513081.1 
 --------------------------------------------------------------------------------------------------------------------------------------
